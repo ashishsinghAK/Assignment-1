@@ -1,0 +1,23 @@
+label {
+    color: aqua
+}
+
+p {
+    color: blue
+}
+
+h2,
+h1 {
+    color: black
+}
+
+div {
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body {
+    background-image: url("https://www.hdwallpapers.in/download/red_berries_green_leaves_tree_branches_in_blur_background_photography_4k_hd_photography-HD.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
